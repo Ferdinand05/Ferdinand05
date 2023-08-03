@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Ferdinand05/Ferdinand05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Name Is Ferdinand Koryanto you can call me Ferdi**
 
 Here are some ideas to get you started:
 
