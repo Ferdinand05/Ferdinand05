@@ -1,7 +1,8 @@
 # Hi there 🙋🏻‍♂️
-            halo
+
 ## **My Name Is _Ferdinand Koryanto_ you can call me _Ferdi_**
-### Get to know me :
+
+### There are some infor about me :
 ---
 - 📖 I’m currently learning Codeigniter 4
 - 📫 How to reach me:
