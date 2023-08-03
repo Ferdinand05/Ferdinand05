@@ -7,7 +7,6 @@
 
 - 📖 I’m currently learning Codeigniter 4
 - 📫 How to reach me:
-  
-  [Instagram](https://www.instagram.com/_ferdinandk)
-  Discord : fear0502
+  - [Instagram](https://www.instagram.com/_ferdinandk)
+  - Discord : fear0502
 
