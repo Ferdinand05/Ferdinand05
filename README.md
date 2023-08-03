@@ -9,7 +9,7 @@
 - 📫 How to reach me:
   * [Instagram](https://www.instagram.com/_ferdinandk)
   * Discord : fear0502
-  * 
+  * [Facebook](https://www.facebook.com/ferdinan.slludihati/)
 ---
 
 
