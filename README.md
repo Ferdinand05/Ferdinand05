@@ -4,10 +4,12 @@
 
 ### There are some infor about me :
 ---
+- 🎒I'm currently student, majoring information systems bachelor degree
 - 📖 I’m currently learning Codeigniter 4
 - 📫 How to reach me:
   * [Instagram](https://www.instagram.com/_ferdinandk)
   * Discord : fear0502
+  * 
 ---
 
 
