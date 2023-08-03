@@ -1,5 +1,5 @@
 # Hi there 🙋🏻‍♂️
-   halo
+            halo
 ## **My Name Is _Ferdinand Koryanto_ you can call me _Ferdi_**
 ### Get to know me :
 ---
@@ -7,6 +7,6 @@
 - 📫 How to reach me:
   * [Instagram](https://www.instagram.com/_ferdinandk)
   * Discord : fear0502
-  ---
+---
 
 
