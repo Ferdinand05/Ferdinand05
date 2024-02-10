@@ -5,7 +5,7 @@
 ### There are some information about me :
 ---
 - 🎒I'm currently student, majoring information systems bachelor degree
-- 📖 I’m currently learning Codeigniter 4
+- 📖 I’m currently learning Laravel 
 - 📫 How to reach me:
   * [Instagram](https://www.instagram.com/_ferdinandk)
   * Discord : fear0502
