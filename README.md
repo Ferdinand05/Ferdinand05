@@ -4,8 +4,7 @@
 
 ### There are some information about me :
 ---
-- 🎒I'm freshgraduate, majoring information systems bachelor degree
-- 📖 I’m currently learning Golang & Vue.js
+- 🔝available for work!
 - 📫 How to reach me:
   * [Instagram](https://www.instagram.com/_ferdinandk)
   * [Facebook](https://www.facebook.com/ferdinan.slludihati/)
